@@ -21,7 +21,7 @@ RMSE:
 
 <img src="img/Step_1/RMSE.png"/>
 
-As can be seen the achieved mean RMSE is smaller than the required value of 0.35 (smaller RMSE = better). 
+As can be seen the achieved mean RMSE is smaller than the required value of 0.35 (lower value of RMSE = better). 
 
 
 ## Step 2 Track Management
